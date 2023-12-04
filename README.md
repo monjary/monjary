@@ -29,14 +29,9 @@ yes
 ok you make a good point\
 i'm quite protective about my children so if you wish to view source contact me
 
-## mojary top 10 most controversial opinions
+## version control is for cowards
 
-- version control is for cowards
-  - back in my day we had something called a memory stick, using that i have only lost a codebase ONCE
-- liquorice is not that good
-  - i thought it was a grain that made you drunk
-- 10 is actually 3
-  - you'll never see it coming
+instead of this overly complicated git thing i just use something called a memory stick, with this method i have only lost an entire codebase ONCE
 
 ## this is the opposite of what git hub is for, you should go to plesantindividual decentralised instead
 
