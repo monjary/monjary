@@ -10,11 +10,19 @@ well it could've been not my code, but i swore off stackoverflow since someone w
 i love making dumb stuff using serious methods and serious stuff using dumb methods\
 i have fun with my code and make cool stuff so all is well :D
 
-## good languages list
+## bad languages list
 
-- java
+- c (it is missing objects)
+- c++ (it allows operator overloading)
+- c# (it capitalises method names)
+- python (it is not statically typed)
+- javascript (it doesn't throw enough exceptions)
+- lua (arrays start at 1)
+- php (string concat operator is .)
 
-rest of them are questionable (i'm not called mon cpp y)
+## you're just complaining about how they differ from java
+
+yes
 
 ## where code
 
@@ -32,4 +40,4 @@ i'm quite protective about my children so if you wish to view source contact me
 
 ## this is the opposite of what git hub is for, you should go to plesantindividual decentralised instead
 
-the up. shut it
+up the shut
