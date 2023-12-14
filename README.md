@@ -33,6 +33,6 @@ i'm quite protective about my children so if you wish to view source contact me
 
 instead of this overly complicated git thing i just use something called a memory stick, with this method i have only lost an entire codebase ONCE
 
-## this is the opposite of what git hub is for, you should go to plesantindividual decentralised instead
+## this is the opposite of what git hub is for, you should go to plesantindividual switch instead
 
 up the shut
